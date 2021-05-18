@@ -6,6 +6,7 @@ import time
 
 import mmcv
 import torch
+import KFW_dataset
 from mmcv.runner import init_dist
 from mmcv.utils import Config, DictAction, get_git_hash
 

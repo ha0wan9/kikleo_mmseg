@@ -111,7 +111,11 @@ data
 *.pkl
 *.pkl.json
 *.log.json
+*.jpeg
 work_dirs/
+data/
+train_KFW/
+__pycache__/
 
 # Pytorch
 *.pth
